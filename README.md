@@ -1,6 +1,6 @@
 # LangGraph Tutorial with ZenRows
 
-A small [LangGraph](https://github.com/langchain-ai/langgraph) pipeline that scrapes news articles with [ZenRows](https://www.zenrows.com/), extracts structured fields with an LLM, and synthesizes a short briefing.
+A [LangGraph](https://github.com/langchain-ai/langgraph) pipeline that scrapes news articles with [ZenRows](https://www.zenrows.com/), extracts structured fields with an LLM, and synthesizes a short briefing.
 
 ## How it works
 
